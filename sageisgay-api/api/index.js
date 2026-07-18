@@ -1,9 +1,9 @@
 export default function handler(req, res) {
   // 1. Add your own direct image URLs here (ends in .jpg, .png, .gif)
   const images = [
-    "https://imgur.com/uqD9KK8",
-    "https://imgur.com/pD0rYQL",
-    "https://imgur.com/cvNaQ99"
+    "https://i.imgur.com/eBpPr2L.jpeg",
+    "https://i.imgur.com/uqD9KK8.jpeg",
+    "https://i.imgur.com/pD0rYQL.jpeg"
   ];
 
   // 2. Pick a random image from the array
